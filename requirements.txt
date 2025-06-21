@@ -1,0 +1,4 @@
+moviepy
+instagrapi
+schedule
+python-dotenv
